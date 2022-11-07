@@ -1,7 +1,7 @@
-#Readme project with Github connection
+# Readme project with Github connection
 This is some random text. 
-##Second title
+## Second title
 Another line
-###Third title
+### Third title
 Another line
 Last change
